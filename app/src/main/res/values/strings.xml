@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Football score</string>
+    <string name="rightButton">Russia</string>
+    <string name="Germany">Germany</string>
+    <string name="RussianScore">0</string>
+    <string name="GermanyScore">0</string>
+</resources>
+
